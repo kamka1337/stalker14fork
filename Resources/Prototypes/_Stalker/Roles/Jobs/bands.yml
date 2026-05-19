@@ -4,7 +4,7 @@
   icon: band
   description: Рейдеры и мародеры Зоны, начиная от мелких головорезов и гангстеров и заканчивая организованными преступными синдикатами.
   playTimeTracker: JobBandit
-  whitelisted: true
+  whitelisted: false
   requirements:
     # - !type:RoleTimeRequirement
     #   role: JobBandit

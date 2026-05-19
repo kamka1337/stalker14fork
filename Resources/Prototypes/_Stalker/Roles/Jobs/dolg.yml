@@ -4,7 +4,7 @@
   icon: Dolg
   description: Защитник человечества.
   playTimeTracker: JobDolg
-  whitelisted: true
+  whitelisted: false
   requirements:
     # - !type:RoleTimeRequirement
     #   role: JobDolg

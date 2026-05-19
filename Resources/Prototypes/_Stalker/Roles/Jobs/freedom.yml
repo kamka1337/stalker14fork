@@ -4,7 +4,7 @@
   icon: freedom
   description: Защитник зоны.
   playTimeTracker: JobFreedom
-  whitelisted: true
+  whitelisted: false
   requirements:
     # - !type:RoleTimeRequirement
     #   role: JobFreedom
